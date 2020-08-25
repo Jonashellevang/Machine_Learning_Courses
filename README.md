@@ -1,6 +1,6 @@
 # Machine Learning 1, 2 and 3 Class Projects
 
-Machine learning can be many things, and during my masters in Business Analytics & Big Data I thouched base with many topics, where some of them were performed in assignments. These can all be viewed in the list below:
+Machine learning can be many things, and during my masters in Business Analytics & Big Data I touched base with many topics, where some of them were performed in assignments. These can all be viewed in the list below:
 
 ### Machine Learning 1:
 * [Cluster Analysis on Stores of a Retail Company Located in Bogotá (Dataiku)](https://github.com/Jonashellevang/IE_MBD_2020/tree/master/Cluster%20Analysis%20(Dataiku))
